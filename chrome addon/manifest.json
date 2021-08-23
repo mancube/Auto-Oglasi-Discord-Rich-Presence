@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "polovniautomobili rich presence",
+	"description": "prati kad gledas polovnjake ko majmun",
+	"version": "1",
+	"author": "Auto plac Prikula DOO",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "mani se polovnjaka slepce"
+	},
+	"permissions": ["tabs", "activeTab", "http://127.0.0.1:5000/*", "storage"],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}
