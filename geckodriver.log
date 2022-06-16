@@ -1718,3 +1718,1280 @@ Read port: 60116
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1655338023483	Marionette	INFO	Stopped listening on port 60116
+1655338467802	geckodriver	INFO	Listening on 127.0.0.1:60483
+1655338470837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilezPFAjX"
+*** You are running in headless mode.
+1655338471154	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilezPFAjX\\search.json.mozlz4", (void 0)))
+1655338471869	Marionette	INFO	Listening on port 60512
+Read port: 60512
+1655338471946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338615504	geckodriver	INFO	Listening on 127.0.0.1:60675
+1655338618523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuypIRE"
+*** You are running in headless mode.
+1655338618819	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuypIRE\\search.json.mozlz4", (void 0)))
+1655338619524	Marionette	INFO	Listening on port 60699
+Read port: 60699
+1655338619628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://suchen.mobile.de/yjDcDa35P_iUCHWnZm2lG_5S/wuSEGYfGXu/ORoxZ2Ms/Q2FhbF/5JPzQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655338630181	geckodriver	INFO	Listening on 127.0.0.1:60742
+1655338633198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilesz8O5b"
+*** You are running in headless mode.
+1655338633480	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilesz8O5b\\search.json.mozlz4", (void 0)))
+1655338634239	Marionette	INFO	Listening on port 60767
+Read port: 60767
+1655338634304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338644742	geckodriver	INFO	Listening on 127.0.0.1:60835
+1655338647754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileUBTWQe"
+*** You are running in headless mode.
+1655338648059	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileUBTWQe\\search.json.mozlz4", (void 0)))
+1655338648810	Marionette	INFO	Listening on port 60861
+Read port: 60861
+1655338648860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338649204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338650599	Marionette	INFO	Stopped listening on port 60861
+[Parent 16776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338661027	geckodriver	INFO	Listening on 127.0.0.1:60915
+1655338664034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileOrfDr8"
+*** You are running in headless mode.
+1655338664312	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileOrfDr8\\search.json.mozlz4", (void 0)))
+1655338665047	Marionette	INFO	Listening on port 60941
+Read port: 60941
+1655338665142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338665440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338667378	Marionette	INFO	Stopped listening on port 60941
+[Parent 10980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338677813	geckodriver	INFO	Listening on 127.0.0.1:61008
+1655338680823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile0LZHvv"
+*** You are running in headless mode.
+1655338681139	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile0LZHvv\\search.json.mozlz4", (void 0)))
+1655338681802	Marionette	INFO	Listening on port 61033
+Read port: 61033
+1655338681821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338692344	geckodriver	INFO	Listening on 127.0.0.1:61092
+1655338695375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileXKB4QU"
+*** You are running in headless mode.
+1655338695672	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileXKB4QU\\search.json.mozlz4", (void 0)))
+1655338696357	Marionette	INFO	Listening on port 61118
+Read port: 61118
+1655338696374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338706814	geckodriver	INFO	Listening on 127.0.0.1:61178
+1655338709821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileoGdsE3"
+*** You are running in headless mode.
+1655338710095	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileoGdsE3\\search.json.mozlz4", (void 0)))
+1655338710742	Marionette	INFO	Listening on port 61201
+Read port: 61201
+1655338710821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338711126	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338713160	Marionette	INFO	Stopped listening on port 61201
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338723599	geckodriver	INFO	Listening on 127.0.0.1:61269
+1655338726621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileWdjD8b"
+*** You are running in headless mode.
+1655338726894	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileWdjD8b\\search.json.mozlz4", (void 0)))
+1655338727571	Marionette	INFO	Listening on port 61292
+Read port: 61292
+1655338727615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338727912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338729770	Marionette	INFO	Stopped listening on port 61292
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338740197	geckodriver	INFO	Listening on 127.0.0.1:61352
+1655338743219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileyRfo0x"
+*** You are running in headless mode.
+1655338743536	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileyRfo0x\\search.json.mozlz4", (void 0)))
+1655338744200	Marionette	INFO	Listening on port 61379
+Read port: 61379
+1655338744217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338744499	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338746633	Marionette	INFO	Stopped listening on port 61379
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338757042	geckodriver	INFO	Listening on 127.0.0.1:61442
+1655338803953	geckodriver	INFO	Listening on 127.0.0.1:61486
+1655338806965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDIDPBR"
+*** You are running in headless mode.
+1655338807255	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDIDPBR\\search.json.mozlz4", (void 0)))
+1655338807943	Marionette	INFO	Listening on port 61510
+Read port: 61510
+1655338807964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338808250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338810276	Marionette	INFO	Stopped listening on port 61510
+1655338820700	geckodriver	INFO	Listening on 127.0.0.1:61579
+1655338823723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile5s3Bh3"
+*** You are running in headless mode.
+1655338823998	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile5s3Bh3\\search.json.mozlz4", (void 0)))
+1655338824657	Marionette	INFO	Listening on port 61603
+Read port: 61603
+1655338824721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338825019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338826652	Marionette	INFO	Stopped listening on port 61603
+[Parent 20344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338837072	geckodriver	INFO	Listening on 127.0.0.1:61666
+1655338840079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileZUUb6I"
+*** You are running in headless mode.
+1655338840358	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileZUUb6I\\search.json.mozlz4", (void 0)))
+1655338841032	Marionette	INFO	Listening on port 61690
+Read port: 61690
+1655338841078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655338844876	Marionette	INFO	Stopped listening on port 61690
+[Parent 692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338855350	geckodriver	INFO	Listening on 127.0.0.1:61756
+1655338858356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilePZpjsb"
+*** You are running in headless mode.
+1655338858631	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilePZpjsb\\search.json.mozlz4", (void 0)))
+1655338859299	Marionette	INFO	Listening on port 61780
+Read port: 61780
+1655338859353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338859623	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338861047	Marionette	INFO	Stopped listening on port 61780
+1655338871479	geckodriver	INFO	Listening on 127.0.0.1:61835
+1655338874495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileJcLI3N"
+*** You are running in headless mode.
+1655338874773	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileJcLI3N\\search.json.mozlz4", (void 0)))
+1655338875469	Marionette	INFO	Listening on port 61859
+Read port: 61859
+1655338875502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338875800	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338877440	Marionette	INFO	Stopped listening on port 61859
+[Parent 28768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338887867	geckodriver	INFO	Listening on 127.0.0.1:61916
+1655338890903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileGBu6bK"
+*** You are running in headless mode.
+1655338891193	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileGBu6bK\\search.json.mozlz4", (void 0)))
+1655338891855	Marionette	INFO	Listening on port 61955
+Read port: 61955
+1655338891900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338892162	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338893720	Marionette	INFO	Stopped listening on port 61955
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338904142	geckodriver	INFO	Listening on 127.0.0.1:62012
+1655338907148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilecK2ILS"
+*** You are running in headless mode.
+1655338907424	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilecK2ILS\\search.json.mozlz4", (void 0)))
+1655338908057	Marionette	INFO	Listening on port 62036
+Read port: 62036
+1655338908145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338908481	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338910081	Marionette	INFO	Stopped listening on port 62036
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338920506	geckodriver	INFO	Listening on 127.0.0.1:62096
+1655338923549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile366m7h"
+*** You are running in headless mode.
+1655338923819	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile366m7h\\search.json.mozlz4", (void 0)))
+1655338924497	Marionette	INFO	Listening on port 62121
+Read port: 62121
+1655338924548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338924916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338926539	Marionette	INFO	Stopped listening on port 62121
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338936957	geckodriver	INFO	Listening on 127.0.0.1:62179
+1655338939992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilex5aHIj"
+*** You are running in headless mode.
+1655338940270	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilex5aHIj\\search.json.mozlz4", (void 0)))
+1655338940933	Marionette	INFO	Listening on port 62203
+Read port: 62203
+1655338940988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338941277	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338943104	Marionette	INFO	Stopped listening on port 62203
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338953533	geckodriver	INFO	Listening on 127.0.0.1:62276
+1655338956545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDpfYEE"
+*** You are running in headless mode.
+1655338956836	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDpfYEE\\search.json.mozlz4", (void 0)))
+1655338957562	Marionette	INFO	Listening on port 62301
+Read port: 62301
+1655338957651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655338957942	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655338959565	Marionette	INFO	Stopped listening on port 62301
+[Parent 22776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655338970004	geckodriver	INFO	Listening on 127.0.0.1:62364
+1655338973038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiletnNkKy"
+*** You are running in headless mode.
+1655338973318	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiletnNkKy\\search.json.mozlz4", (void 0)))
+1655338974025	Marionette	INFO	Listening on port 62388
+Read port: 62388
+1655338974144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338984606	geckodriver	INFO	Listening on 127.0.0.1:62447
+1655338987640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileNz8kfo"
+*** You are running in headless mode.
+1655338987925	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileNz8kfo\\search.json.mozlz4", (void 0)))
+1655338988623	Marionette	INFO	Listening on port 62471
+Read port: 62471
+1655338988641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655338999105	geckodriver	INFO	Listening on 127.0.0.1:62526
+1655339002130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilelZtPrw"
+*** You are running in headless mode.
+1655339002405	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilelZtPrw\\search.json.mozlz4", (void 0)))
+1655339003083	Marionette	INFO	Listening on port 62550
+Read port: 62550
+1655339003128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339073679	geckodriver	INFO	Listening on 127.0.0.1:62668
+1655339076690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileqRWxOE"
+*** You are running in headless mode.
+1655339076997	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileqRWxOE\\search.json.mozlz4", (void 0)))
+1655339077698	Marionette	INFO	Listening on port 62692
+Read port: 62692
+1655339077797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339088286	geckodriver	INFO	Listening on 127.0.0.1:62751
+1655339091306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile8ZXEIG"
+*** You are running in headless mode.
+1655339091593	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile8ZXEIG\\search.json.mozlz4", (void 0)))
+1655339092289	Marionette	INFO	Listening on port 62775
+Read port: 62775
+1655339092308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339102766	geckodriver	INFO	Listening on 127.0.0.1:62831
+1655339105772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileOGXrBp"
+*** You are running in headless mode.
+1655339106049	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileOGXrBp\\search.json.mozlz4", (void 0)))
+1655339106741	Marionette	INFO	Listening on port 62855
+Read port: 62855
+1655339106774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339117225	geckodriver	INFO	Listening on 127.0.0.1:62912
+1655339120258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilebAsVdw"
+*** You are running in headless mode.
+1655339120552	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilebAsVdw\\search.json.mozlz4", (void 0)))
+1655339121230	Marionette	INFO	Listening on port 62936
+Read port: 62936
+1655339121261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339131714	geckodriver	INFO	Listening on 127.0.0.1:62991
+1655339134746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilelnh0JP"
+*** You are running in headless mode.
+1655339135033	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilelnh0JP\\search.json.mozlz4", (void 0)))
+1655339135720	Marionette	INFO	Listening on port 63015
+Read port: 63015
+1655339135744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339146210	geckodriver	INFO	Listening on 127.0.0.1:63074
+1655339149252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileW2fRPf"
+*** You are running in headless mode.
+1655339149573	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileW2fRPf\\search.json.mozlz4", (void 0)))
+1655339150393	Marionette	INFO	Listening on port 63104
+Read port: 63104
+1655339150466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339160922	geckodriver	INFO	Listening on 127.0.0.1:63164
+1655339163932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileXEfps3"
+*** You are running in headless mode.
+1655339164238	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileXEfps3\\search.json.mozlz4", (void 0)))
+1655339164964	Marionette	INFO	Listening on port 63188
+Read port: 63188
+1655339165039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339175564	geckodriver	INFO	Listening on 127.0.0.1:63252
+1655339178587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileRgVKcU"
+*** You are running in headless mode.
+1655339178883	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileRgVKcU\\search.json.mozlz4", (void 0)))
+1655339179606	Marionette	INFO	Listening on port 63276
+Read port: 63276
+1655339179695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339190129	geckodriver	INFO	Listening on 127.0.0.1:63335
+1655339193153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilePK5lLK"
+*** You are running in headless mode.
+1655339193452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilePK5lLK\\search.json.mozlz4", (void 0)))
+1655339194170	Marionette	INFO	Listening on port 63358
+Read port: 63358
+1655339194259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339204725	geckodriver	INFO	Listening on 127.0.0.1:63418
+1655339207760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile4yrJ0t"
+*** You are running in headless mode.
+1655339208056	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile4yrJ0t\\search.json.mozlz4", (void 0)))
+1655339208754	Marionette	INFO	Listening on port 63442
+Read port: 63442
+1655339208866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339219308	geckodriver	INFO	Listening on 127.0.0.1:63501
+1655339222330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileKcXXEh"
+*** You are running in headless mode.
+1655339222619	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileKcXXEh\\search.json.mozlz4", (void 0)))
+1655339223331	Marionette	INFO	Listening on port 63524
+Read port: 63524
+1655339223437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339233937	geckodriver	INFO	Listening on 127.0.0.1:63584
+1655339236954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileUbvicM"
+*** You are running in headless mode.
+1655339237273	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileUbvicM\\search.json.mozlz4", (void 0)))
+1655339237968	Marionette	INFO	Listening on port 60725
+Read port: 60725
+1655339238062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339248516	geckodriver	INFO	Listening on 127.0.0.1:60785
+1655339251542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileTTfisI"
+*** You are running in headless mode.
+1655339251846	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileTTfisI\\search.json.mozlz4", (void 0)))
+1655339252559	Marionette	INFO	Listening on port 60809
+Read port: 60809
+1655339252648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339263105	geckodriver	INFO	Listening on 127.0.0.1:60869
+1655339266126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilevDZ3bW"
+*** You are running in headless mode.
+1655339266424	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilevDZ3bW\\search.json.mozlz4", (void 0)))
+1655339267129	Marionette	INFO	Listening on port 60892
+Read port: 60892
+1655339267233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339277717	geckodriver	INFO	Listening on 127.0.0.1:60952
+1655339280750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileBywr96"
+*** You are running in headless mode.
+1655339281051	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileBywr96\\search.json.mozlz4", (void 0)))
+1655339281829	Marionette	INFO	Listening on port 60976
+Read port: 60976
+1655339281857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339362409	geckodriver	INFO	Listening on 127.0.0.1:61092
+1655339365427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileSXzxA8"
+*** You are running in headless mode.
+1655339365728	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileSXzxA8\\search.json.mozlz4", (void 0)))
+1655339366456	Marionette	INFO	Listening on port 61118
+Read port: 61118
+1655339366534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655339366835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.classistatic.de/pubse/static/error.deac8a78f4c52eab0b10.js, line 2: TypeError: y() is undefined
+1655339481041	geckodriver	INFO	Listening on 127.0.0.1:61301
+1655339484084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileImgMRK"
+*** You are running in headless mode.
+1655339484421	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileImgMRK\\search.json.mozlz4", (void 0)))
+1655339485143	Marionette	INFO	Listening on port 61325
+Read port: 61325
+1655339485190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339495712	geckodriver	INFO	Listening on 127.0.0.1:61384
+1655339498728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileNBqvAi"
+*** You are running in headless mode.
+1655339499000	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileNBqvAi\\search.json.mozlz4", (void 0)))
+1655339499712	Marionette	INFO	Listening on port 61408
+Read port: 61408
+1655339499727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339510159	geckodriver	INFO	Listening on 127.0.0.1:61466
+1655339513166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileR4JAbZ"
+*** You are running in headless mode.
+1655339513451	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileR4JAbZ\\search.json.mozlz4", (void 0)))
+1655339514132	Marionette	INFO	Listening on port 61493
+Read port: 61493
+1655339514165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339524683	geckodriver	INFO	Listening on 127.0.0.1:61550
+1655339527701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileObpGDs"
+*** You are running in headless mode.
+1655339527989	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileObpGDs\\search.json.mozlz4", (void 0)))
+1655339528711	Marionette	INFO	Listening on port 61574
+Read port: 61574
+1655339528810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655339539276	geckodriver	INFO	Listening on 127.0.0.1:61632
+1655339542288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaSURGh"
+*** You are running in headless mode.
+1655339542576	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaSURGh\\search.json.mozlz4", (void 0)))
+1655339543260	Marionette	INFO	Listening on port 61656
+Read port: 61656
+1655339543295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340288406	geckodriver	INFO	Listening on 127.0.0.1:62323
+1655340291444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuD2HlL"
+1655340291754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuD2HlL\\search.json.mozlz4", (void 0)))
+1655340292993	Marionette	INFO	Listening on port 62350
+Read port: 62350
+1655340293087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340310441	Marionette	INFO	Stopped listening on port 62350
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+bled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileRnV8k6\\search.json.mozlz4", (void 0)))
+1655340308166	Marionette	INFO	Listening on port 62434
+Read port: 62434
+1655340308244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a s1655340321697	mozrunner::runner	INFO	Running command:JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 4260 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resourceconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileupyxTe\\search.json.mozlz4", (void 0)))
+1655340339284	Marionette	INFO	Listening on port 62799
+Read port: 62799
+1655340339362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://suchen.mobile.de/yjDcDa35P_iUCHWnZm2lG_5S/wuSEGYfGXu/ORoxZ2Ms/Q2FhbF/5JPzQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+tion: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 7708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+console.error: "Unable to find target with innerWindowId:15032385538"
+53	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilen0eXNJ"
+1655340353345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilen0eXNJ\\search.json.mozlz4", (void 0)))
+1655340354615	Marionette	INFO	Listening on port 62885
+Read port: 62885
+1655340354702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://suchen.mobile.de/yjDcDa35P_iUCHWnZm2lG_5S/wuSEGYfGXu/ORoxZ2Ms/Q2FhbF/5JPzQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8M1655340368223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiler0B29f"
+1655340368539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiler0B29f\\search.json.mozlz4", (void 0)))
+1655340369859	Marionette	INFO	Listening on port 62965
+Read port: 62965
+1655340369880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340380481	Marionette	INFO	Stopped listening on port 62961655340383289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileLS5ooE"
+1655340383579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileLS5ooE\\search.json.mozlz4", (void 0)))
+1655340384835	Marionette	INFO	Listening on port 63045
+Read port: 63045
+1655340384939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655340386202	Marionette	INFO	Stopped listening on port 63045
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 26352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655340419591	geckodriver	INFO	Listening on 127.0.0.1:63099
+1655340422627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilevHWmYb"
+1655340422920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilevHWmYb\\search.json.mozlz4", (void 0)))
+1655340424144	Marionette	INFO	Listening on port 63123
+Read port: 63123
+1655340424164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 581 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:15032385538"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655340517522	Marionette	INFO	Stopped listening on port 63123
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileBjiRcd\\search.json.mozlz4", (void 0)))
+1655340515456	Marionette	INFO	Listening on port 63776
+Read port: 63776
+1655340515511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655340516608	Marionette	INFO	Stopped listening on port 63776
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655340731030	geckodriver	INFO	Listening on 127.0.0.1:63988
+1655340734056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaWNojq"
+1655340734361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaWNojq\\search.json.mozlz4", (void 0)))
+1655340735619	Marionette	INFO	Listening on port 64010
+Read port: 64010
+1655340735703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://tpc.googlesyndication.com: SecurityError: The operation 1655340855851	Marionette	INFO	Stopped listening on port 64143
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ge for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://fledge-eu.creativecdn.com: SecurityErr1655340855355	Marionette	INFO	Stopped listening on port 64219
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+umerate CacheStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://3675ea21b1daf24a50fedd11aeeeedf1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+JavaScript warning: https://pagead2.googlesyndication.coJavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340854710	Marionette	INFO	Stopped listening on port 64302
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+certificate errors will be ignored for this session
+JavaScript warning: https://suchen.mobile.de/yjDcDa35P_iUCHWnZm2lG_5S/wuSEGYfGXu/ORoxZ2Ms/Q2FhbF/5JPzQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340854075	Marionette	INFO	Stopped listening on port 64542
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+."
+console.warn: "Failed to enumerate CacheStorage for host https://66be9eff2e15f41cdd8fefc92123e1a0.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://66be9eff2e15f41cdd8fefc92123e1a0.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://66be9eff2e15f41cdd8fefc92123e1a0.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 4386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "ErJavaScript warning: https://suchen.mobile.de/yjDcDa35P_iUCHWnZm2lG_5S/wuSEGYfGXu/ORoxZ2Ms/Q2FhbF/5JPzQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655340853138	Marionette	INFO	Stopped listening on port 64624
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+hared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal21474836497/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: "Unable to find target with innerWindowId:15032385538"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1655340861755	Marionette	INFO	Stopped listening on port 64708
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+pt error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655340850230	Marionette	INFO	Stopped listening on port 64010
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 37972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655340853201	geckodriver	INFO	Listening on 127.0.0.1:64770
+1655340856225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileGSypQ1"
+1655340856533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileGSypQ1\\search.json.mozlz4", (void 0)))
+1655340857811	Marionette	INFO	Listening on port 64792
+Read port: 64792
+1655340857873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1655340858159	Marionette	INFO	Stopped listening on port 64792
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655340925333	geckodriver	INFO	Listening on 127.0.0.1:64855
+1655340928374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileqVic1W"
+1655340928667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileqVic1W\\search.json.mozlz4", (void 0)))
+1655340929886	Marionette	INFO	Listening on port 64877
+Read port: 64877
+1655340929911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 3260 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655341011359	geckodriver	INFO	Listening on 127.0.0.1:65155
+1655341014394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileMMwFd2"
+1655341014685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileMMwFd2\\search.json.mozlz4", (void 0)))
+1655341015899	Marionette	INFO	Listening on port 65177
+Read port: 65177
+1655341015930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a s1655341029444	mozrunner::runner	INFO	Running command:JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 5132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info isconsole.warn: SearchSettings: "get: No settings file exists, new p1655341033127	Marionette	INFO	Stopped listening on port 65177
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 22596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655341063711	geckodriver	INFO	Listening on 127.0.0.1:65464
+1655341070720	geckodriver	INFO	Listening on 127.0.0.1:65483
+1655341073767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilemJGdqv"
+1655341074074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilemJGdqv\\search.json.mozlz4", (void 0)))
+1655341075292	Marionette	INFO	Listening on port 65505
+Read port: 65505
+1655341075317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a s1655341088788	mozrunner::runner	INFO	Running command:JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 3767 > eval line 1 > eval l1655341089139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new p1655341096290	Marionette	INFO	Stopped listening on port 65505
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 10456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 10456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655341138295	geckodriver	INFO	Listening on 127.0.0.1:49430
+1655341141340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDHW2WA"
+1655341141629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileDHW2WA\\search.json.mozlz4", (void 0)))
+1655341142822	Marionette	INFO	Listening on port 49452
+Read port: 49452
+1655341142877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg1655341156370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileC10lfZ"
+1655341156723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileC10lfZ\\search.json.mozlz4", (void 0)))
+1655341158150	Marionette	INFO	Listening on port 49718
+Read port: 49718
+1655341158236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655341159605	Marionette	INFO	Stopped listening on port 49718
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1655341607207	geckodriver	INFO	Listening on 127.0.0.1:50230
+1655341610229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiledu79yn"
+1655341610526	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofiledu79yn\\search.json.mozlz4", (void 0)))
+1655341611801	Marionette	INFO	Listening on port 50253
+Read port: 50253
+1655341611882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 48 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 4124 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655341712341	Marionette	INFO	Stopped listening on port 50253
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 29756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 29756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655341722908	geckodriver	INFO	Listening on 127.0.0.1:50523
+1655341725939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileIGXUxo"
+1655341726258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileIGXUxo\\search.json.mozlz4", (void 0)))
+1655341727465	Marionette	INFO	Listening on port 50545
+Read port: 50545
+1655341727492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655341735574	Marionette	INFO	Stopped listening on port 50545
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 31420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655341833764	geckodriver	INFO	Listening on 127.0.0.1:50700
+1655341836790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=1024" "--height=768" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileRdAWHI"
+1655341837070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileRdAWHI\\search.json.mozlz4", (void 0)))
+1655341838293	Marionette	INFO	Listening on port 50722
+Read port: 50722
+1655341838330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 17 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 2621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Failed to enumerate CacheStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://5fda4ac2932136101f919a96b4b51630.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://5fda4ac2932136101f919a96b4b51630.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://c1354f8596742699982a663dfc46318a.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://5fda4ac2932136101f919a96b4b51630.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://5fda4ac2932136101f919a96b4b51630.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://c1354f8596742699982a663dfc46318a.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://eu-u.openx.net: SecurityError: The operation is insecure."
+JavaScript error: resource://devtools/client/shared/widgets/TableWidget.js, line 1870: TypeError: right-hand side of 'in' should be an object, got undefined
+console.error: "Unable to find target with innerWindowId:15032385538"
+1655341888771	Marionette	INFO	Stopped listening on port 50722
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 9300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655341899515	geckodriver	INFO	Listening on 127.0.0.1:50961
+1655341902553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=1024" "--height=768" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile6fPuAv"
+1655341902839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile6fPuAv\\search.json.mozlz4", (void 0)))
+1655341904063	Marionette	INFO	Listening on port 50983
+Read port: 50983
+1655341904097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655341907423	Marionette	INFO	Stopped listening on port 50983
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655342011779	geckodriver	INFO	Listening on 127.0.0.1:51196
+1655342014813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile2JxyTo"
+1655342015085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile2JxyTo\\search.json.mozlz4", (void 0)))
+1655342016310	Marionette	INFO	Listening on port 51218
+Read port: 51218
+1655342016349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655342072810	geckodriver	INFO	Listening on 127.0.0.1:51470
+1655342075847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile1v5b5V"
+1655342076122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile1v5b5V\\search.json.mozlz4", (void 0)))
+1655342077396	Marionette	INFO	Listening on port 51491
+Read port: 51491
+1655342077492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 2794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655342157975	Marionette	INFO	Stopped listening on port 51491
+[Parent 39056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 39056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655342168559	geckodriver	INFO	Listening on 127.0.0.1:51808
+1655342171609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile6UyUez"
+1655342171886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile6UyUez\\search.json.mozlz4", (void 0)))
+1655342237582	geckodriver	INFO	Listening on 127.0.0.1:51873
+1655342240642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilejXtBtx"
+1655342240925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilejXtBtx\\search.json.mozlz4", (void 0)))
+1655342242192	Marionette	INFO	Listening on port 51895
+Read port: 51895
+1655342242285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suchen.mobile.de"
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://ams.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://fledge-eu.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://aax-eu.amazon-adsystem.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://2993b35ff1932aca0fb6b0d0792d5df1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://2993b35ff1932aca0fb6b0d0792d5df1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://2993b35ff1932aca0fb6b0d0792d5df1.safeframe.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://gum.criteo.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1LsLs3hPvZWq9Am_ancfxsM5HBEIiYSFkjEIdAr0QGk.js line 2 > eval line 2068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655342709655	geckodriver	INFO	Listening on 127.0.0.1:52368
+1655342712694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileZMQSAy"
+1655342712984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileZMQSAy\\search.json.mozlz4", (void 0)))
+1655342714226	Marionette	INFO	Listening on port 52392
+Read port: 52392
+1655342714339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655342723543	Marionette	INFO	Stopped listening on port 52392
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655342772448	geckodriver	INFO	Listening on 127.0.0.1:52499
+1655342775459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile3bVbcz"
+*** You are running in headless mode.
+1655342775738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile3bVbcz\\search.json.mozlz4", (void 0)))
+1655342776407	Marionette	INFO	Listening on port 53944
+Read port: 53944
+1655342776454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/20080782/fiat-punto?attp=p8_pv0_pc1_pl9_plv0 line 442 > injectedScript, line 1: ReferenceError: ym is not defined
+1655342779145	Marionette	INFO	Stopped listening on port 53944
+[Parent 27404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 27404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655342789650	geckodriver	INFO	Listening on 127.0.0.1:54054
+1655342792657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilek6LrPt"
+*** You are running in headless mode.
+1655342792932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilek6LrPt\\search.json.mozlz4", (void 0)))
+1655342793606	Marionette	INFO	Listening on port 54082
+Read port: 54082
+1655342793657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/20080782/fiat-punto?attp=p8_pv0_pc1_pl9_plv0 line 442 > injectedScript, line 1: ReferenceError: ym is not defined
+1655342796074	Marionette	INFO	Stopped listening on port 54082
+[Parent 30908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655342806584	geckodriver	INFO	Listening on 127.0.0.1:54189
+1655342809609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaV9KgJ"
+*** You are running in headless mode.
+1655342809881	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileaV9KgJ\\search.json.mozlz4", (void 0)))
+1655342810542	Marionette	INFO	Listening on port 54213
+Read port: 54213
+1655342810608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/20062055/skoda-octavia?attp=p8_pv0_pc1_pl9_plv0 line 442 > injectedScript, line 1: ReferenceError: ym is not defined
+1655342812928	Marionette	INFO	Stopped listening on port 54213
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 29304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655343097792	geckodriver	INFO	Listening on 127.0.0.1:54498
+1655343100809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile1rrRM6"
+*** You are running in headless mode.
+1655343101090	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofile1rrRM6\\search.json.mozlz4", (void 0)))
+1655343101752	Marionette	INFO	Listening on port 54521
+Read port: 54521
+1655343101804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1655343106171	Marionette	INFO	Stopped listening on port 54521
+[Parent 23700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655343127100	geckodriver	INFO	Listening on 127.0.0.1:54580
+1655343130118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileyMNJ7w"
+*** You are running in headless mode.
+1655343130393	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileyMNJ7w\\search.json.mozlz4", (void 0)))
+1655343131017	Marionette	INFO	Listening on port 54600
+Read port: 54600
+1655343131112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655343131389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://m.mobile.de/4QU1m8hop/tXwGMl_JQ/Y97r8mNG3Yir/OXl6GHI5AQ/CUoWCVsf/BUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655343143404	geckodriver	INFO	Listening on 127.0.0.1:54656
+1655343146439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuInLDo"
+*** You are running in headless mode.
+1655343146721	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileuInLDo\\search.json.mozlz4", (void 0)))
+1655343147399	Marionette	INFO	Listening on port 54676
+Read port: 54676
+1655343147436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655343158170	geckodriver	INFO	Listening on 127.0.0.1:54729
+1655343161215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilegVDVU6"
+*** You are running in headless mode.
+1655343161499	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilegVDVU6\\search.json.mozlz4", (void 0)))
+1655343162169	Marionette	INFO	Listening on port 54751
+Read port: 54751
+1655343162211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655343172761	geckodriver	INFO	Listening on 127.0.0.1:54807
+1655343175786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileJ6W95Y"
+*** You are running in headless mode.
+1655343176065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileJ6W95Y\\search.json.mozlz4", (void 0)))
+1655343176740	Marionette	INFO	Listening on port 54829
+Read port: 54829
+1655343176783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655343187241	geckodriver	INFO	Listening on 127.0.0.1:54885
+1655343190263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilewA1JF8"
+*** You are running in headless mode.
+1655343190570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilewA1JF8\\search.json.mozlz4", (void 0)))
+1655343191348	Marionette	INFO	Listening on port 54907
+Read port: 54907
+1655343191363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suchen.mobile.de/N_Ga1mMWEIZot0z8MEBcrBkb/h5NuQD6h5N/TDx9OQ/NRFlPi8/oACE, line 1: SyntaxError: expected expression, got '<'
+1655343201813	geckodriver	INFO	Listening on 127.0.0.1:54965
+1655343204828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilekh3V0F"
+*** You are running in headless mode.
+1655343205111	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofilekh3V0F\\search.json.mozlz4", (void 0)))
+1655343205766	Marionette	INFO	Listening on port 54985
+Read port: 54985
+1655343205822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/20062055/skoda-octavia?attp=p8_pv0_pc1_pl9_plv0 line 442 > injectedScript, line 1: ReferenceError: ym is not defined
+1655343208486	Marionette	INFO	Stopped listening on port 54985
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655343218947	geckodriver	INFO	Listening on 127.0.0.1:55081
+1655343221963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=640" "--height=480" "-no-remote" "-profile" "C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileX2aNKs"
+*** You are running in headless mode.
+1655343222265	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ilija\\AppData\\Local\\Temp\\rust_mozprofileX2aNKs\\search.json.mozlz4", (void 0)))
+1655343222967	Marionette	INFO	Listening on port 55101
+Read port: 55101
+1655343223066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
