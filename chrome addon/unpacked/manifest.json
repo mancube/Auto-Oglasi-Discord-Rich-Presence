@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "auto oglasi rich presence",
+	"description": "prati kad gledas polovnjake ko majmun",
+	"version": "2",
+	"author": "mancube",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "mani se polovnjaka slepce"
+	},
+	"permissions": ["tabs", "activeTab", "http://127.0.0.1:5000/*", "storage", "http://*/", "https://*/"],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}

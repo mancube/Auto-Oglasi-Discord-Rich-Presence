@@ -43,6 +43,14 @@ while True:
         pare = price
         logo = "mobile"
         
+    elif "www.kupujemprodajem.com/automobili/" in url or "www.kupujemprodajem.com//automobili/" in url:
+        imeSajta = "kupujemprodajem"
+        if title != originalTitle:
+            originalTitle = title
+        tekst = title
+        pare = price
+        logo = "kp"
+        
     else:
         tekst = ""
         pare = ""
